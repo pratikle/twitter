@@ -1,0 +1,2 @@
+# twitter
+Pratikle Twitter olayı
